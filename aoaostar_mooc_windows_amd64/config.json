@@ -1,0 +1,14 @@
+{
+  "global": {
+    "server": ":10086",
+    "limit": 11
+  },
+  "users": [
+    {
+      "base_url": "https://mooc.lidapoly.edu.cn/",
+      "school_id": 0,
+      "username": "202109401",
+      "password": "hKjSbKtR"
+    }
+  ]
+}
